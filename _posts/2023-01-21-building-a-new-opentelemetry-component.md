@@ -1,3 +1,5 @@
+![thumnail](images/DALL·E\ 2023-01-21\ 09.39.03\ -\ \ streams\ of\ zero\ and\ one\ digits\ flowing\ through\ a\ \ transport\ map.png images)
+
 # Building a New OpenTelemetry Component
 
 By Alan Jones
